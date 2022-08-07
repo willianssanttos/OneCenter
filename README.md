@@ -4,7 +4,7 @@ Projeto desenvolvido baseado no curso, Santander Bootcamp Fullstack Developer: C
 
 No design do prejeto, foi utilizado Templates de E-Commercer: https://uicookies.com/free-bootstrap-
 
-Utilizado um template responsivo, fácil de trabalhar, altamente flexível e adaptável com base no Bootstrap Framework. Se adquando as telas de smartphones, tablets e desktops!
+Utilizado um template responsivo, fácil de trabalhar, altamente flexível e adaptável com base no Bootstrap Framework. Se adequando as telas de smartphones, tablets e desktops!
 
 # CourseManager
 
