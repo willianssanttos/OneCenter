@@ -1,6 +1,6 @@
 # OneCenter
 
-Projeto desenvolvido baseado no curso, Santander Bootcamp Fullstack Developer: Como criar um front-end de um e-commerce utilizando Angular, da Dio Innovation One!
+Projeto desenvolvido e baseado no curso, Santander Bootcamp Fullstack Developer: Como criar um front-end de um e-commerce utilizando Angular, da Dio Innovation One!
 
 No design do prejeto, foi utilizado Templates de E-Commercer: https://uicookies.com/free-bootstrap-
 
